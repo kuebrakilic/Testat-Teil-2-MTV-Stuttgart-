@@ -35,7 +35,7 @@ vollständiger Name der Spielerinnen, der Vereine/ Organisationen und der Heimat
 **1=** 1991-1993,
 **2=** 1994-1996,
 **3=** 1997-1999,
-**4=** 2002-2002,
+**4=** 2000-2002,
 **5=** 2003-2005
 
 **age**
